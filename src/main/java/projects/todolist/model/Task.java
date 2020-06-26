@@ -1,11 +1,13 @@
 package projects.todolist.model;
 
+import java.time.LocalDateTime;
+
 public class Task {
 
-    String name;
-    int createdOn;
-    int expectedCompletedOn;
-    int completedOn;
+    private String name;
+    private LocalDateTime createdOn;
+    private LocalDateTime expectedCompletedOn;
+    private LocalDateTime completedOn;
 
 
 }

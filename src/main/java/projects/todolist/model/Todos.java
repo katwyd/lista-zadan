@@ -1,7 +1,9 @@
 package projects.todolist.model;
 
+import java.time.LocalDateTime;
+
 public class Todos {
 
-    String name;
-    int createdOn;
+    private String name;
+    private LocalDateTime createdOn;
 }

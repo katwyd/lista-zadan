@@ -1,0 +1,22 @@
+21:44:24.468 INFO  projects.todolist.TodoListApp - Rozpoczęcie działania
+21:49:32.813 INFO  projects.todolist.TodoListApp - Rozpoczęcie działania
+21:50:19.929 INFO  projects.todolist.TodoListApp - Rozpoczęcie działania
+21:54:26.637 INFO  projects.todolist.TodoListApp - Rozpoczęcie działania
+21:54:30.844 DEBUG projects.todolist.TodoListApp - Wybrana opcja: 1
+21:55:42.453 INFO  projects.todolist.TodoListApp - Rozpoczęcie działania
+21:55:45.767 DEBUG projects.todolist.TodoListApp - Wybrana opcja: 8
+22:17:41.977 INFO  projects.todolist.TodoListApp - Rozpoczęcie działania
+22:17:47.029 DEBUG projects.todolist.TodoListApp - Wybrana opcja: 4
+22:17:54.026 DEBUG projects.todolist.TodoListApp - Wybrana opcja: 8
+22:18:34.176 DEBUG projects.todolist.TodoListApp - Wybrana opcja: 6
+22:18:47.656 DEBUG projects.todolist.TodoListApp - Wybrana opcja: 3
+22:18:51.050 DEBUG projects.todolist.TodoListApp - Wybrana opcja: 9
+22:19:38.560 INFO  projects.todolist.TodoListApp - Rozpoczęcie działania
+22:20:21.499 DEBUG projects.todolist.TodoListApp - Wybrana opcja: 1
+22:21:09.424 INFO  projects.todolist.TodoListApp - Rozpoczęcie działania
+22:21:13.905 DEBUG projects.todolist.TodoListApp - Wybrana opcja: 8
+22:21:41.822 DEBUG projects.todolist.TodoListApp - Wybrana opcja: 4
+22:24:17.536 INFO  projects.todolist.TodoListApp - Rozpoczęcie działania
+22:24:21.204 DEBUG projects.todolist.TodoListApp - Wybrana opcja: 3
+22:24:27.765 INFO  projects.todolist.TodoListApp - Rozpoczęcie działania
+22:24:33.386 DEBUG projects.todolist.TodoListApp - Wybrana opcja: 5
