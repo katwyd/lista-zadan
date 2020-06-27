@@ -6,7 +6,6 @@ import org.hibernate.cfg.Configuration;
 
 public class DbUtil {
 
-
     private final SessionFactory sessionFactory;
 
     private DbUtil() {
